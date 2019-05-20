@@ -1,2 +1,2 @@
-# Caninet-Dentaire
+# Cabinet-Dentaire
 site internet
